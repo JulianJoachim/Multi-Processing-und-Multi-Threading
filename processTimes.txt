@@ -1,0 +1,8 @@
+2 wurde in 1.581420660018921 Sekunden mit  1 Prozesse berechnet. 
+17 wurde in 1.496941089630127 Sekunden mit  1 Prozesse berechnet. 
+17 wurde in 1.481370449066162 Sekunden mit  2 Prozesse berechnet. 
+17 wurde in 1.5249476432800293 Sekunden mit  4 Prozesse berechnet. 
+181 wurde in 1.5544202327728271 Sekunden mit  1 Prozesse berechnet. 
+181 wurde in 1.4796812534332275 Sekunden mit  2 Prozesse berechnet. 
+181 wurde in 1.5124220848083496 Sekunden mit  4 Prozesse berechnet. 
+181 wurde in 1.9770526885986328 Sekunden mit  16 Prozesse berechnet. 
